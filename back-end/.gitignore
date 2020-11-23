@@ -2,4 +2,5 @@
 /node_modules
 #ANOTHER FOLDER
 /.vscode
-#Environment
+
+.package-lock.json
